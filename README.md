@@ -1,4 +1,4 @@
-# Отчёт о создания сайта Kansai-Project
+# Отчёт о создании сайта Kansai-Project
 
 Сам сайт находится по ссылке - http://kansai.navikum.ru
 Данные для входа в Админ панель - Email: xolbek0000@gmail.com Пароль: 2281337Abdurax
