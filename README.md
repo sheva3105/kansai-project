@@ -48,3 +48,37 @@
 
 # Итог 
 В заключение хочу сказать, что благодаря  этому проекту я узнал много нового. Например: ЯП PHP, MySQL, MVC, Bootstrap 4. Узнал много нового о возможностях админ панели.
+
+# Все скриншоты:
+
+
+https://sun9-39.userapi.com/c857420/v857420560/bad81/RpB8_zN41ww.jpg
+https://sun9-17.userapi.com/c857420/v857420560/bad8b/1QLVyQoJ1tE.jpg
+https://sun9-19.userapi.com/c857420/v857420560/bad9f/dLavSoDR6Dk.jpg
+
+
+https://sun9-27.userapi.com/c857420/v857420144/b8858/QhgIpeYH4WY.jpg
+https://sun9-60.userapi.com/c857420/v857420144/b8862/HhaOExh_IZk.jpg
+https://sun9-67.userapi.com/c857420/v857420144/b886c/wjX9rUVhvAg.jpg
+
+
+https://sun9-7.userapi.com/c857420/v857420144/b887a/33AXLIwPj38.jpg
+https://sun9-14.userapi.com/c857420/v857420144/b8884/m3NZvsUB8tQ.jpg
+https://sun9-50.userapi.com/c857420/v857420144/b8897/H8t5dhuLIuI.jpg
+https://sun9-58.userapi.com/c857420/v857420144/b88a1/oOG0KteZNUs.jpg
+https://sun9-8.userapi.com/c857420/v857420144/b88ab/ayGb97EE50k.jpg
+https://sun9-55.userapi.com/c857420/v857420144/b88d7/rliG5B3fW-k.jpg
+https://sun9-17.userapi.com/c857420/v857420144/b88ed/HAA8rz-RF1o.jpg
+
+https://sun9-17.userapi.com/c857420/v857420144/b89b1/G0Kpc7Mh9Jo.jpg
+https://sun9-13.userapi.com/c857420/v857420144/b89bb/85AT8a-Bt6w.jpg
+https://sun9-3.userapi.com/c857420/v857420144/b89c5/0chl0rW_cCg.jpg
+https://sun9-44.userapi.com/c857420/v857420144/b89cf/ttQ_CfVUQ4E.jpg
+https://sun9-9.userapi.com/c857420/v857420144/b89d9/F1t-nXPuDl0.jpg
+https://sun9-52.userapi.com/c857420/v857420144/b89e3/6Js67Vc5Nrk.jpg
+
+
+https://sun9-34.userapi.com/c857420/v857420144/b8a0a/c5LbTcJJt_I.jpg
+https://sun9-10.userapi.com/c857420/v857420144/b8a14/mzIx5gTtYeg.jpg
+https://sun9-17.userapi.com/c857420/v857420144/b8a1e/P-JXPIDucmc.jpg
+
